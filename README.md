@@ -22,17 +22,6 @@ npm install
 
 ---
 
-## Variáveis de Ambiente
-
-Crie um arquivo `.env` na raiz:
-
-```env
-JWT_SECRET=sua_chave_secreta_aqui
-```
-
-> Se não definir, o servidor usa `"dev-only-secret"` como fallback. **Nunca use o fallback em produção.**
-
----
 
 ## Rodando
 
