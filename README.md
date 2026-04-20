@@ -105,5 +105,5 @@ Authorization: <token>
 
 ---
 
- Avisos
--- API simples de autenticação apenas para testar o metodo JWT
+## Avisos
+- API simples de autenticação apenas para testar o metodo JWT
