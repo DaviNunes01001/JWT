@@ -105,8 +105,5 @@ Authorization: <token>
 
 ---
 
-## ⚠️ Avisos de produção
-
-- Senhas estão em plaintext — usar `bcrypt` em produção
-- Usuários estão em memória — substituir por banco de dados
-- Nunca commitar o `JWT_SECRET` no repositório
+ Avisos
+-- API simples de autenticação apenas para testar o metodo JWT
